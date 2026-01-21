@@ -10,14 +10,16 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Liar Liar")
+print("Kamelot")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("Whisper, whisper in the dark, tell me what you see")
+print("poisoned by your fly-infested poetry")
+print("Liar Liar on the wall!  Give the world to me!")
+print("A wasteland or a monarchy?  Tell me what you see")
 /*:
 
  _Copyright © 2023 Apple Inc._
